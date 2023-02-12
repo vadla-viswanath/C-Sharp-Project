@@ -1,0 +1,5 @@
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net5.0\sampleProject.csproj.AssemblyReference.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net5.0\sampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net5.0\sampleProject.AssemblyInfoInputs.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net5.0\sampleProject.AssemblyInfo.cs
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net5.0\sampleProject.csproj.CoreCompileInputs.cache

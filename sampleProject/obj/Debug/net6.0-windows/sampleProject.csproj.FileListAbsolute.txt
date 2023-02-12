@@ -1,0 +1,15 @@
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\bin\Debug\net6.0-windows\sampleProject.exe
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\bin\Debug\net6.0-windows\sampleProject.deps.json
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\bin\Debug\net6.0-windows\sampleProject.runtimeconfig.json
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\bin\Debug\net6.0-windows\sampleProject.dll
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\bin\Debug\net6.0-windows\sampleProject.pdb
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.csproj.AssemblyReference.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.AssemblyInfoInputs.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.AssemblyInfo.cs
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.csproj.CoreCompileInputs.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.dll
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\refint\sampleProject.dll
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.pdb
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\sampleProject.genruntimeconfig.cache
+C:\Users\vvadla\source\repos\sampleProject\sampleProject\obj\Debug\net6.0-windows\ref\sampleProject.dll
